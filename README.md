@@ -9,7 +9,7 @@ Layer #1:
 <br>
 
 
-Layer #:
+Layer #2:
 
 ![layer1](Layer2.png)
 
