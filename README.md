@@ -1,3 +1,3 @@
 # CTRL-FIRMWARE
 
-![layer1](Layer_1.jpg)
+![layer1](Layer1.jpg)
