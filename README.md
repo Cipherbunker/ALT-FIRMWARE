@@ -1,5 +1,5 @@
 # CTRL-FIRMWARE
-link to my easy firmware installer: https://github.com/Cipherbunker/mdloader
+link to my easy firmware installer: https://github.com/Cipherbunker/mdloader  (osx)
 
 
 Layer #1:
